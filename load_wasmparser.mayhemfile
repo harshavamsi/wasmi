@@ -1,0 +1,5 @@
+project: wasmi
+target: load_wasmparser
+
+cmds:
+  - cmd: /load_wasmparser

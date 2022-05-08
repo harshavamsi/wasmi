@@ -1,0 +1,5 @@
+project: wasmi
+target: load_wabt
+
+cmds:
+  - cmd: /load_wabt

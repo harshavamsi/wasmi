@@ -1,0 +1,5 @@
+project: wasmi
+target: load_spec
+
+cmds:
+  - cmd: /load_spec
